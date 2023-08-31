@@ -1,0 +1,133 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+  h1,h2,h3,h4,h5,h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+  }
+
+  body{
+    /* width: 37.5rem; */
+    background-image: url("../img/sfondo.png");
+    font-family: 'Poppins', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  #logo{
+    width: 200px;
+  }
+  header{
+    margin: 15px;
+    text-align: center;
+    background-color: #0088aa ;
+    padding: 5%;
+    color: #ffffff;
+  }
+
+  main, aside{
+    box-shadow: 2px 2px #cccdce;
+  }
+
+  header p{
+    padding: 5%;
+    font-weight: 700;
+  }
+  header li{
+    line-height: 25px;
+  }
+  main{
+    background-color:#ffffff;
+    margin: 0 15px;
+    text-align: center;
+  }
+  main h1 {
+    font-weight: 700;
+    font-size: 1.5em;
+    padding: 2%;
+  }
+  .container > p{
+    color: #778899;
+  }
+  iframe{
+    width: 100%;
+    border-radius: 3%;
+  }
+  aside {
+    margin: 0 15px 15px;
+    text-align: center;
+    background-color:#ffffff;
+    padding-bottom: 60px;
+  }
+  aside h2{
+    font-size: 1.5rem;
+    padding: 30px 0;
+  }
+  footer{
+    margin: 0 15px 25px;
+    padding: 5%;
+    background-color: #005566;
+    text-align: center;
+    color: #ffffff;
+  }
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  caption{
+    font-size: 1.5rem;
+    font-style: italic;
+    font-weight: 700;
+  }
+  div{
+    padding: 2% 0;
+  }
+  i{
+    margin-right: 3px;
+  }
+  span{
+    color:#aa2072 ;
+  }
+  p{
+    padding: 2% 3%;
+  }
+  main ul{
+    list-style: inside
+  }
+  ol{
+    list-style-type: decimal;
+  }
+
+  .newsletter{
+    border: solid 1px #778899 ;
+    background-color: #cccdce;
+    margin: 0 10px;
+  }
+  .asside{
+    border: solid 1px #778899 ;
+    background-color: #cccdce;
+    margin: 10px;
+  }
+  aside div{
+text-align: left;
+padding-left: 10px;
+  }
+  .data{
+    text-align: right;
+  }
+
+  .table td, .table th{
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  .table th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    background-color: #0080ca;
+    color: #ffffff;
+  }
+
+
+ 
